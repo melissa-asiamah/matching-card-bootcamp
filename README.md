@@ -1,7 +1,7 @@
-# Project
+# Matching Card Game
 This is a matching card game in which if a user should select two matching cards of 5 choices, they win the game.
 
-![alt tag](matching-card.png)
+![alt tag](images-bc2019b/matching-card.png)
 
 ## How It's Made:
 
